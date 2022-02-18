@@ -1,0 +1,171 @@
+    * {
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+    }
+.navegacion,a{
+color: rgb(19, 28, 107);
+display: inline-block;
+text-decoration: none;
+text-align:right;
+padding-right: 15px;
+font-family: 'Courier New', Courier, monospace;
+}
+.invierno{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around
+}
+.verano{display: flex;
+    justify-content: center;
+    justify-content: space-around
+}
+.titulog{
+    display: flex;
+    justify-content: center;
+background: rgb(255, 255, 254);
+justify-content:  space-between
+}
+.imag{
+    width: 15%;
+padding-top: 30px;}
+    
+.precios {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around    
+}
+.tituloenvio{
+text-align: center
+}
+.imgenvio{
+    width: 40px;
+}
+.enviostitulo{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.contacto{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    background-color: rgba(221, 248, 248, 0.966);
+}
+.devoluciones {
+    display: flex;
+    justify-content: space-around;
+    
+}
+.contacto img{
+    width: 70px;
+    height: 70px;
+    
+}
+.cuotas{
+    padding-right: 20px;
+}
+.cambiost{
+    padding-left: 20px;
+}
+.devoluciones{
+    background-color: rgba(221, 248, 248, 0.966);
+}
+.contactotx{
+    padding-right: 10px;
+}
+.copy{
+    padding-top: 50px;
+    background-color: rgba(221, 248, 248, 0.966);
+}
+.shanty{
+   font-family: 'Mystery Quest', cursiva;
+   padding-left: 25px;
+   padding-top: 5px;
+}
+.rebajaimg{
+    padding-left: 180px;
+}
+.carteleraimg{
+    width: 100%;
+}
+.veranorebaja{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.cambiospgi{
+   padding-left: 390px;
+}
+.text{
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif
+}
+.imgformasdepago{
+    width: 1100px;
+    height: 300px;
+    padding-left: 400px;
+}
+.formadepagotext{
+    text-align: center;
+    padding: 10px;
+    font-family:'Courier New', Courier, monospace
+}
+.formasdepagoP{
+    display: flex;
+    justify-content: center;
+    padding-left:120px;
+    padding-top: 10px;
+}
+.formasdepagoh2{
+    text-align: center;
+    padding-top: 10px;
+}
+.formasdepagosh2{
+    text-align: center;
+    padding-left: 120px;
+    padding-top: 10px;
+}
+.formasdepagoP2{
+    display: flex;
+    justify-content: center;
+    padding-left:180px;
+    padding-top: 10px;
+}
+.ls{
+    background-color: #650909;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='105' viewBox='0 0 80 105'%3E%3Cg fill-rule='evenodd'%3E%3Cg id='death-star' fill='%23000000' fill-opacity='0.4'%3E%3Cpath d='M20 10a5 5 0 0 1 10 0v50a5 5 0 0 1-10 0V10zm15 35a5 5 0 0 1 10 0v50a5 5 0 0 1-10 0V45zM20 75a5 5 0 0 1 10 0v20a5 5 0 0 1-10 0V75zm30-65a5 5 0 0 1 10 0v50a5 5 0 0 1-10 0V10zm0 65a5 5 0 0 1 10 0v20a5 5 0 0 1-10 0V75zM35 10a5 5 0 0 1 10 0v20a5 5 0 0 1-10 0V10zM5 45a5 5 0 0 1 10 0v50a5 5 0 0 1-10 0V45zm0-35a5 5 0 0 1 10 0v20a5 5 0 0 1-10 0V10zm60 35a5 5 0 0 1 10 0v50a5 5 0 0 1-10 0V45zm0-35a5 5 0 0 1 10 0v20a5 5 0 0 1-10 0V10z' /%3E%3C/g%3E%3C/g%3E%3C/svg%3E"); 
+}
+.lsimg{
+    width: 500px;
+}
+.formulario {
+    width: 400px;
+    margin: auto;
+    display: flex;
+    flex-direction:column ;
+    padding: 1.7em 1.5em;
+    gap: 1em;
+    border-radius: 1em;
+    background-color: rgb(221, 255, 255);
+}
+.formularios{
+    padding: 50px;
+}
+.maps{
+    padding-left: 300px ;
+    width: 1100px;
+    padding-bottom: 10px;
+}
+.ubicaciontex{
+    text-align: center;
+    padding: 20px;
+    font-family:'Courier New', Courier, monospace
+}
+.contactoh1{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+}
+
+   
